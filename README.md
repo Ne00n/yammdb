@@ -7,6 +7,10 @@ However it works like any other .mmdb you can find on the Internet.<br>
 The goal is to update this .mmdb weekly.<br>
 You can get the .mmdb here: https://yammdb.b-cdn.net/geo.mmdb<br>
 
+**Limitations**<br>
+- This is not convering the entire IPv4 space, roughtly from 800k routed subnets, we have data on about 600k.
+- 1.1.1.1 like any other anycast IP will return incorrect data, the IP has to be unicast
+
 **Locations**<br>
 Currently we have a Server in the following locations we use to take measurements.<br>
 | Country          | City          | Info   |
