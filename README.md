@@ -24,3 +24,12 @@ The Datastructure is the following.<br>
 | ------------- | ------------- | ------------- |
 | country       | string        | ISO 3166-1, Alpha2 |
 | location(latitude,longitude) | double   | WGS |  
+
+Reading the data is as easy as:
+```
+import geoip2.database
+reader = geoip2.database.Reader("geo.mmdb")
+
+response = reader.city("1.1.1.1")
+print(response.country,response.location.latitude,response.location.longitude)
+```
