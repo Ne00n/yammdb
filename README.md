@@ -29,10 +29,10 @@ This list will likely be expanded, if you want to sponsor us a virtual server fo
 
 **Structure**<br>
 The Datastructure is the following.<br>
-| Name          | Type          | Description   |
-| ------------- | ------------- | ------------- |
-| country       | string        | ISO 3166-1, Alpha2 |
-| location(latitude,longitude) | double   | WGS |  
+| Name                         | Type          | Description        |
+| -------------                | ------------- | -------------      |
+| iso_code                     | string        | ISO 3166-1, Alpha2 |
+| location(latitude,longitude) | double        | WGS                |  
 
 **Example**<br>
 Reading the data is as easy as:
@@ -41,5 +41,5 @@ import geoip2.database
 reader = geoip2.database.Reader("geo.mmdb")
 
 response = reader.city("1.1.1.1")
-print(response.country,response.location.latitude,response.location.longitude)
+print(response.country.iso_code,response.location.latitude,response.location.longitude)
 ```
