@@ -5,20 +5,21 @@ This is another .mmdb which initially is build to verify existing geo data with 
 However it works like any other .mmdb you can find on the Internet.<br>
 
 The goal is to update this .mmdb weekly.<br>
+You can get the .mmdb here: https://yammdb.b-cdn.net/geo.mmdb<br>
 
 **Locations**<br>
 Currently we have a Server in the following locations we use to take measurements.<br>
 | Country          | City          | Info   |
 | ------------- | ------------- | ------------- |
-|NL| Amsterdam  |       |
-|AT| Vienna     |       |
-|SE| Stockholm  |       |
-|US| New York   |       |
-|US| Seattle    |       |
-|US| Miami      |       |
-|SG| Singapore  |       |
-|JP| Tokyo      |       |
-|CN| Hong Kong  | CN2   |
+|NL             | Amsterdam     |               |
+|AT             | Vienna        |               |
+|SE             | Stockholm     |               |
+|US             | New York      |               |
+|US             | Seattle       |               |
+|US             | Miami         |               |
+|SG             | Singapore     |               |
+|JP             | Tokyo         |               |
+|CN             | Hong Kong     | CN2           |
 
 This list will likely be expanded, if you want to sponsor us a virtual server for this, you can hit me up.<br>
 
