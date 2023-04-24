@@ -6,6 +6,7 @@ However it works like any other .mmdb you can find on the Internet.<br>
 
 The goal is to update this .mmdb weekly.<br>
 
+**Locations**<br>
 Currently we have a Server in the following locations we use to take measurements.<br>
 | Country          | City          | Info   |
 | ------------- | ------------- | ------------- |
@@ -21,14 +22,14 @@ Currently we have a Server in the following locations we use to take measurement
 
 This list will likely be expanded, if you want to sponsor us a virtual server for this, you can hit me up.<br>
 
-**Structure**
+**Structure**<br>
 The Datastructure is the following.<br>
 | Name          | Type          | Description   |
 | ------------- | ------------- | ------------- |
 | country       | string        | ISO 3166-1, Alpha2 |
 | location(latitude,longitude) | double   | WGS |  
 
-**Example**
+**Example**<br>
 Reading the data is as easy as:
 ```
 import geoip2.database
