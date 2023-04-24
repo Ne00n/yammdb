@@ -12,7 +12,7 @@ You can get the .mmdb here: https://yammdb.b-cdn.net/geo.mmdb<br>
 - 1.1.1.1 like any other anycast IP will return incorrect data, the IP has to be unicast
 
 **Locations**<br>
-Currently we have a Server in the following locations we use to take measurements.<br>
+Currently we have Servers in the following locations, we use to take measurements.<br>
 | Country          | City          | Info   |
 | ------------- | ------------- | ------------- |
 |NL             | Amsterdam     |               |
