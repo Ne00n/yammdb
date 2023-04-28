@@ -32,14 +32,17 @@ The Datastructure is the following.<br>
 | Name                         | Type          | Description        |
 | -------------                | ------------- | -------------      |
 | iso_code                     | string        | ISO 3166-1, Alpha2 |
+| continent_code               | string        | NA, EU, AS         |
 | location(latitude,longitude) | double        | WGS                |  
 
 **Example**<br>
 Reading the data is as easy as:
 ```
 import geoip2.database
-reader = geoip2.database.Reader("geo.mmdb")
 
+reader = geoip2.database.Reader("geo.mmdb")
 response = reader.city("1.1.1.1")
-print(response.country.iso_code,response.location.latitude,response.location.longitude)
+print("Continent",response.continent.code)
+print("Country",response.country.iso_code)
+print("Latitude",response.location.latitude,"Longitude",response.location.longitude)
 ```
