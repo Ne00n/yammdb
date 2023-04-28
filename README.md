@@ -16,8 +16,10 @@ Currently we have Servers in the following locations, we use to take measurement
 | Country          | City          | Info   |
 | ------------- | ------------- | ------------- |
 |NL             | Amsterdam     |               |
+|DE             | Frankfurt     |               |
 |AT             | Vienna        |               |
 |SE             | Stockholm     |               |
+|RU             | Moscow        |               |
 |US             | New York      |               |
 |US             | Seattle       |               |
 |US             | Miami         |               |
