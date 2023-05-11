@@ -23,6 +23,7 @@ Currently we have Servers in the following locations, we use to take measurement
 |US             | New York      |               |
 |US             | Seattle       |               |
 |US             | Miami         |               |
+|PK             | Pakistan      | [Thanks to Virtury](https://virtury.com/) |
 |SG             | Singapore     |               |
 |JP             | Tokyo         |               |
 |CN             | Hong Kong     | CN2           |
