@@ -18,6 +18,7 @@ Currently we have Servers in the following locations, we use to take measurement
 |NL             | Amsterdam     |               |
 |DE             | Frankfurt     |               |
 |AT             | Vienna        |               |
+|ES             | Madrid      | [Thanks to Ginernet](https://ginernet.com/en/) |
 |SE             | Stockholm     |               |
 |RU             | Moscow        |               |
 |US             | New York      |               |
