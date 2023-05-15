@@ -17,14 +17,17 @@ Currently we have Servers in the following locations, we use to take measurement
 | ------------- | ------------- | ------------- |
 |NL             | Amsterdam     |               |
 |DE             | Frankfurt     |               |
+|CZ             | Prague        | [Thanks to Skylonhost](https://skylonhost.com) |
 |AT             | Vienna        |               |
-|ES             | Madrid      | [Thanks to Ginernet](https://ginernet.com/en/) |
+|ES             | Madrid        | [Thanks to Ginernet](https://ginernet.com) |
 |SE             | Stockholm     |               |
 |RU             | Moscow        |               |
+|RU             | Novosibirsk   |               |
 |US             | New York      |               |
 |US             | Seattle       |               |
 |US             | Miami         |               |
-|PK             | Pakistan      | [Thanks to Virtury](https://virtury.com/) |
+|US             | Dallas        |               |
+|PK             | Pakistan      | [Thanks to Virtury](https://virtury.com) |
 |SG             | Singapore     |               |
 |JP             | Tokyo         |               |
 |CN             | Hong Kong     | CN2           |
