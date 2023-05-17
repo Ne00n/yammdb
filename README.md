@@ -8,7 +8,7 @@ The goal is to update this .mmdb weekly.<br>
 You can get the .mmdb here: https://yammdb.serv.app/geo.mmdb<br>
 
 **Limitations**<br>
-- This is not convering the entire IPv4 space, roughtly from 975k routed subnets, we have data on about 638k.
+- This is not convering the entire IPv4 space, roughtly from 975k routed subnets, we have data on about 717k.
 - 1.1.1.1 like any other anycast IP will return incorrect data, the IP has to be unicast
 
 **Locations**<br>
