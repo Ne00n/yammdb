@@ -44,7 +44,7 @@ The Datastructure is the following.<br>
 | Name                         | Type          | Description        |
 | -------------                | ------------- | -------------      |
 | iso_code                     | string        | ISO 3166-1, Alpha2 |
-| continent_code               | string        | NA, EU, AS         |
+| continent_code               | string        | NA, SA, AF, EU, AS |
 | location(latitude,longitude) | double        | WGS                |
 | accuracy_radius              | double        | latency (ms)       |    
 
