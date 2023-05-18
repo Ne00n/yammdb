@@ -14,8 +14,8 @@ You can get the .mmdb here: https://yammdb.serv.app/geo.mmdb<br>
 **Locations**<br>
 Currently we have Servers in the following locations, we use to take measurements.<br>
 
-| Continent     | Country       | City          | Info   |
-| ------------- | ------------- | ------------- |
+| Continent     | Country       | City          | Info          |
+| ------------- | ------------- | ------------- | ------------- |
 |EU             |NL             | Amsterdam     |               |
 |EU             |DE             | Frankfurt     |               |
 |EU             |CZ             | Prague        | [Thanks to Skylonhost](https://skylonhost.com) |
