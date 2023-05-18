@@ -25,12 +25,13 @@ Currently we have Servers in the following locations, we use to take measurement
 |EU             |SE             | Stockholm     |               |
 |EU             |RU             | Moscow        |               |
 |EU             |RU             | Novosibirsk   |               |
+|EU             |TK             | Istanbul      | [Thanks to Rabisu](https://rabisu.com) |
 |NA             |US             | New York      |               |
 |NA             |US             | Seattle       |               |
 |NA             |US             | Miami         |               |
 |NA             |US             | Dallas        |               |
-|SA             |BR             | Sao Paulo     | [Thanks to Misaka](https://www.misaka.io) |
-|AF             |NG             | Lagos         | [Thanks to Misaka](https://www.misaka.io) |
+|SA             |BR             | Sao Paulo     | [Thanks to Misaka](https://misaka.io) |
+|AF             |NG             | Lagos         | [Thanks to Misaka](https://misaka.io) |
 |AS             |PK             | Pakistan      | [Thanks to Virtury](https://virtury.com) |
 |AS             |SG             | Singapore     |               |
 |AS             |JP             | Tokyo         |               |
