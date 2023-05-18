@@ -14,45 +14,27 @@ You can get the .mmdb here: https://yammdb.serv.app/geo.mmdb<br>
 **Locations**<br>
 Currently we have Servers in the following locations, we use to take measurements.<br>
 
-### Europe
-
-| Country          | City          | Info   |
+| Continent     | Country       | City          | Info   |
 | ------------- | ------------- | ------------- |
-|NL             | Amsterdam     |               |
-|DE             | Frankfurt     |               |
-|CZ             | Prague        | [Thanks to Skylonhost](https://skylonhost.com) |
-|PL             | Warsaw        | [Thanks to Webhorizon](https://webhorizon.net) |
-|AT             | Vienna        |               |
-|ES             | Madrid        | [Thanks to Ginernet](https://ginernet.com) |
-|SE             | Stockholm     |               |
-|RU             | Moscow        |               |
-|RU             | Novosibirsk   |               |
-
-### North America
-| Country          | City          | Info   |
-| ------------- | ------------- | ------------- |
-|US             | New York      |               |
-|US             | Seattle       |               |
-|US             | Miami         |               |
-|US             | Dallas        |               |
-
-### South America
-| Country          | City          | Info   |
-| ------------- | ------------- | ------------- |
-|BR             | Sao Paulo     | [Thanks to Misaka](https://www.misaka.io) |
-
-### Africa
-| Country          | City          | Info   |
-| ------------- | ------------- | ------------- |
-|NG             | Lagos         | [Thanks to Misaka](https://www.misaka.io) |
-
-### Asia
-| Country          | City          | Info   |
-| ------------- | ------------- | ------------- |
-|PK             | Pakistan      | [Thanks to Virtury](https://virtury.com) |
-|SG             | Singapore     |               |
-|JP             | Tokyo         |               |
-|CN             | Hong Kong     | CN2           |
+|EU             |NL             | Amsterdam     |               |
+|EU             |DE             | Frankfurt     |               |
+|EU             |CZ             | Prague        | [Thanks to Skylonhost](https://skylonhost.com) |
+|EU             |PL             | Warsaw        | [Thanks to Webhorizon](https://webhorizon.net) |
+|EU             |AT             | Vienna        |               |
+|EU             |ES             | Madrid        | [Thanks to Ginernet](https://ginernet.com) |
+|EU             |SE             | Stockholm     |               |
+|EU             |RU             | Moscow        |               |
+|EU             |RU             | Novosibirsk   |               |
+|NA             |US             | New York      |               |
+|NA             |US             | Seattle       |               |
+|NA             |US             | Miami         |               |
+|NA             |US             | Dallas        |               |
+|SA             |BR             | Sao Paulo     | [Thanks to Misaka](https://www.misaka.io) |
+|AF             |NG             | Lagos         | [Thanks to Misaka](https://www.misaka.io) |
+|AS             |PK             | Pakistan      | [Thanks to Virtury](https://virtury.com) |
+|AS             |SG             | Singapore     |               |
+|AS             |JP             | Tokyo         |               |
+|AS             |CN             | Hong Kong     | CN2           |
 
 This list will likely be expanded, if you want to sponsor us a virtual server for this, you can hit me up.<br>
 
