@@ -13,6 +13,9 @@ You can get the .mmdb here: https://yammdb.serv.app/geo.mmdb<br>
 
 **Locations**<br>
 Currently we have Servers in the following locations, we use to take measurements.<br>
+
+### Europe
+
 | Country          | City          | Info   |
 | ------------- | ------------- | ------------- |
 |NL             | Amsterdam     |               |
@@ -24,16 +27,32 @@ Currently we have Servers in the following locations, we use to take measurement
 |SE             | Stockholm     |               |
 |RU             | Moscow        |               |
 |RU             | Novosibirsk   |               |
+
+### North America
+| Country          | City          | Info   |
+| ------------- | ------------- | ------------- |
 |US             | New York      |               |
 |US             | Seattle       |               |
 |US             | Miami         |               |
 |US             | Dallas        |               |
+
+### South America
+| Country          | City          | Info   |
+| ------------- | ------------- | ------------- |
 |BR             | Sao Paulo     | [Thanks to Misaka](https://www.misaka.io) |
+
+### Africa
+| Country          | City          | Info   |
+| ------------- | ------------- | ------------- |
+|NG             | Lagos         | [Thanks to Misaka](https://www.misaka.io) |
+
+### Asia
+| Country          | City          | Info   |
+| ------------- | ------------- | ------------- |
 |PK             | Pakistan      | [Thanks to Virtury](https://virtury.com) |
 |SG             | Singapore     |               |
 |JP             | Tokyo         |               |
 |CN             | Hong Kong     | CN2           |
-|NG             | Lagos         | [Thanks to Misaka](https://www.misaka.io) |
 
 This list will likely be expanded, if you want to sponsor us a virtual server for this, you can hit me up.<br>
 
