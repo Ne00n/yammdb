@@ -18,6 +18,7 @@ Currently we have Servers in the following locations, we use to take measurement
 |NL             | Amsterdam     |               |
 |DE             | Frankfurt     |               |
 |CZ             | Prague        | [Thanks to Skylonhost](https://skylonhost.com) |
+|PL             | Warsaw        | [Thanks to Webhorizon](https://webhorizon.net) |
 |AT             | Vienna        |               |
 |ES             | Madrid        | [Thanks to Ginernet](https://ginernet.com) |
 |SE             | Stockholm     |               |
@@ -27,10 +28,12 @@ Currently we have Servers in the following locations, we use to take measurement
 |US             | Seattle       |               |
 |US             | Miami         |               |
 |US             | Dallas        |               |
+|BR             | Sao Paulo     | [Thanks to Misaka](https://www.misaka.io) |
 |PK             | Pakistan      | [Thanks to Virtury](https://virtury.com) |
 |SG             | Singapore     |               |
 |JP             | Tokyo         |               |
 |CN             | Hong Kong     | CN2           |
+|NG             | Lagos         | [Thanks to Misaka](https://www.misaka.io) |
 
 This list will likely be expanded, if you want to sponsor us a virtual server for this, you can hit me up.<br>
 
