@@ -24,7 +24,6 @@ Currently we have Servers in the following locations, we use to take measurement
 |EU             |ES             | Madrid        | [Thanks to Ginernet](https://ginernet.com) |
 |EU             |SE             | Stockholm     |               |
 |EU             |RU             | Moscow        |               |
-|EU             |RU             | Novosibirsk   |               |
 |EU             |TK             | Istanbul      | [Thanks to Rabisu](https://rabisu.com) |
 |NA             |US             | New York      |               |
 |NA             |US             | Seattle       |               |
@@ -32,10 +31,11 @@ Currently we have Servers in the following locations, we use to take measurement
 |NA             |US             | Dallas        |               |
 |SA             |BR             | Sao Paulo     | [Thanks to Misaka](https://misaka.io) |
 |AF             |NG             | Lagos         | [Thanks to Misaka](https://misaka.io) |
-|AS             |PK             | Pakistan      | [Thanks to Virtury](https://virtury.com) |
-|AS             |SG             | Singapore     |               |
+|AS             |RU             | Novosibirsk   |               |
 |AS             |JP             | Tokyo         |               |
 |AS             |CN             | Hong Kong     | CN2           |
+|AS             |SG             | Singapore     |               |
+|AS             |PK             | Pakistan      | [Thanks to Virtury](https://virtury.com) |
 
 This list will likely be expanded, if you want to sponsor us a virtual server for this, you can hit me up.<br>
 
