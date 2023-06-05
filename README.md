@@ -37,19 +37,19 @@ Currently we have Servers in the following locations, we use to take measurement
 |AS             |JP             | Tokyo         | CN2           |
 |AS             |CN             | Hong Kong     | CN2           |
 |AS             |SG             | Singapore     |               |
-|AS             |AU             | Sydney        | [Thanks to Advinservers](https://advinservers.com) |
+|OC             |AU             | Sydney        | [Thanks to Advinservers](https://advinservers.com) |
 |AS             |PK             | Pakistan      | [Thanks to Virtury](https://virtury.com) |
 
 This list will likely be expanded, if you want to sponsor us a virtual server for this, you can hit me up.<br>
 
 **Structure**<br>
 The Datastructure is the following.<br>
-| Name                         | Type          | Description        |
-| -------------                | ------------- | -------------      |
-| iso_code                     | string        | ISO 3166-1, Alpha2 |
-| continent_code               | string        | NA, SA, AF, EU, AS |
-| location(latitude,longitude) | double        | WGS                |
-| accuracy_radius              | double        | latency (ms)       |    
+| Name                         | Type          | Description            |
+| -------------                | ------------- | -------------          |
+| iso_code                     | string        | ISO 3166-1, Alpha2     |
+| continent_code               | string        | NA, SA, AF, EU, AS, OC |
+| location(latitude,longitude) | double        | WGS                    |
+| accuracy_radius              | double        | latency (ms)           |    
 
 **Example**<br>
 Reading the data is as easy as:
