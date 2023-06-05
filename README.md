@@ -34,7 +34,7 @@ Currently we have Servers in the following locations, we use to take measurement
 |SA             |BR             | Sao Paulo     | [Thanks to Misaka](https://misaka.io) |
 |AF             |NG             | Lagos         | [Thanks to Misaka](https://misaka.io) |
 |AS             |RU             | Novosibirsk   |               |
-|AS             |JP             | Tokyo         |               |
+|AS             |JP             | Tokyo         | CN2           |
 |AS             |CN             | Hong Kong     | CN2           |
 |AS             |SG             | Singapore     |               |
 |AS             |AU             | Sydney        | [Thanks to Advinservers](https://advinservers.com) |
