@@ -35,6 +35,7 @@ Currently we have Servers in the following locations, we use to take measurement
 |AS             |JP             | Tokyo         |               |
 |AS             |CN             | Hong Kong     | CN2           |
 |AS             |SG             | Singapore     |               |
+|AS             |AU             | Sydney        | [Thanks to Advinservers](https://advinservers.com) |
 |AS             |PK             | Pakistan      | [Thanks to Virtury](https://virtury.com) |
 
 This list will likely be expanded, if you want to sponsor us a virtual server for this, you can hit me up.<br>
