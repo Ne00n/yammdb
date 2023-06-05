@@ -18,9 +18,11 @@ Currently we have Servers in the following locations, we use to take measurement
 | ------------- | ------------- | ------------- | ------------- |
 |EU             |NL             | Amsterdam     |               |
 |EU             |DE             | Frankfurt     |               |
+|EU             |FR             | Paris         | [Thanks to Bunny](https://bunny.net) |
 |EU             |CZ             | Prague        | [Thanks to Skylonhost](https://skylonhost.com) |
 |EU             |PL             | Warsaw        | [Thanks to Webhorizon](https://webhorizon.net) |
 |EU             |AT             | Vienna        |               |
+|EU             |CH             | Zurich        |               |
 |EU             |ES             | Madrid        | [Thanks to Ginernet](https://ginernet.com) |
 |EU             |SE             | Stockholm     |               |
 |EU             |RU             | Moscow        |               |
