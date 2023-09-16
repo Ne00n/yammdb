@@ -25,7 +25,6 @@ Currently we have Servers in the following locations, we use to take measurement
 |EU             |AT             | Vienna        |               |
 |EU             |CH             | Zurich        |               |
 |EU             |ES             | Madrid        | [Thanks to Ginernet](https://ginernet.com) |
-|EU             |SE             | Stockholm     |               |
 |EU             |RU             | Moscow        |               |
 |EU             |TR             | Istanbul      | [Thanks to Rabisu](https://rabisu.com) |
 |NA             |US             | New York      |               |
