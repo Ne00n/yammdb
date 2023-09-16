@@ -6,6 +6,7 @@ However it works like any other .mmdb you can find on the Internet.<br>
 
 The goal is to update this .mmdb weekly.<br>
 You can get the .mmdb here: https://yammdb.serv.app/geo.mmdb<br>
+Raw data can be found here: https://raw.serv.app/<br>
 
 **Limitations**<br>
 - This is not convering the entire IPv4 space, roughtly from 975k routed subnets, we have data on about 717k.
