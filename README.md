@@ -17,6 +17,7 @@ Currently we have Servers in the following locations, we use to take measurement
 
 | Continent     | Country       | City          | Info          |
 | ------------- | ------------- | ------------- | ------------- |
+|EU             |UK             | London        |               |
 |EU             |NL             | Amsterdam     |               |
 |EU             |DE             | Frankfurt     |               |
 |EU             |FR             | Paris         | [Thanks to Bunny](https://bunny.net) |
