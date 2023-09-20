@@ -51,6 +51,11 @@ The Datastructure is the following.<br>
 | location(latitude,longitude) | double        | WGS                    |
 | accuracy_radius              | double        | latency (ms)           |    
 
+**Install dependencies for python example**<br>
+```
+pip3 install geoip2
+```
+
 **Example**<br>
 Reading the data is as easy as:
 ```
