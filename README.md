@@ -1,7 +1,7 @@
 # yammdb
 just another .mmdb
 
-<br>The project is discontinued.<br>
+**The project is discontinued**.
 
 This is another .mmdb which initially is build to verify existing geo data with real measurements.<br>
 However it works like any other .mmdb you can find on the Internet.<br>
